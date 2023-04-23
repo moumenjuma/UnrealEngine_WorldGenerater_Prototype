@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.third-person-bp-game-template-14419252.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Projects/ScarabGames/ForgottenWorld/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Third Person BP Game Template-14419252 [UE Editor]"
+				}
+			}
+		}
+	]
+}
